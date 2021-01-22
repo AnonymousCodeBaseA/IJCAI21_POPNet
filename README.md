@@ -184,3 +184,5 @@ We compare our methods with state-of-the-art conventional detectors, including F
 | **POPNet**        | **80.75**        |
 
 Omniglot is available at https://github.com/brendenlake/omniglot/tree/master/python.
+
+Reconstruction code for baseline will be available soon.
