@@ -1,6 +1,6 @@
 # IJCAI21_POPNet
 
-Source code for the under-review IJCAI2021 paper, POPNet: Improved Few-Shot Learning on Android Malware Encrypted Traffic Classification
+Source code for the under-review IJCAI2021 paper, ***POPNet: Improved Few-Shot Learning on Android Malware Encrypted Traffic Classification***
 
 The project is written in Pytorch using the following backend: Intel i7-9750 @2.6GHz, 16GB RAM, NVIDIA GeForce RTX2060; Windows 10, CUDA 10.1, and PyTorch 1.0.1.
 
